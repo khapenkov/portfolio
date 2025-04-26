@@ -27,9 +27,9 @@ Here you will find my certificates, personal projects, and code examples in Pyth
 
 ### JavaScript
 
-| Project | Description | Link |
-|:--------|:------------|:-----|
-| Example          | TODO                                          | [View Project](#) |
+| Project    | Description                                                                         | Repository        |
+|:-----------|:------------------------------------------------------------------------------------|:------------------|
+| Flashcards | An interactive web application for learning capitals of countries around the world. | [View Project](https://github.com/khapenkov/flashcards) |
 
 ### Go
 
