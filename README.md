@@ -30,6 +30,7 @@ Here you will find my certificates, personal projects, and code examples in Pyth
 | Project    | Description                                                                         | Repository        |
 |:-----------|:------------------------------------------------------------------------------------|:------------------|
 | Flashcards | An interactive web application for learning capitals of countries around the world. | [View Project](https://github.com/khapenkov/flashcards) |
+| To-Do List | A simple Todo List web application built with vanilla JavaScript, HTML, and CSS. | [View Project](https://github.com/khapenkov/to-do-list) |
 
 ### Go
 
