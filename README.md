@@ -1,8 +1,6 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Dmitry%20Khapenkov-CTO%20•%20Team%20Lead%20•%20Senior%20Developer%20(PHP%20%7C%20Python%20%7C%20JavaScript%20%7C%20Go)-purple" alt="Dmitry Khapenkov Badge">
-</p>
-
 # Dmitry Khapenkov — Portfolio
+
+![Dmitry Khapenkov - CTO • Team Lead • Senior Developer (PHP | Python | JavaScript | Go)](https://img.shields.io/badge/Dmitry%20Khapenkov-CTO%20•%20Team%20Lead%20•%20Senior%20Developer%20(PHP%20%7C%20Python%20%7C%20JavaScript%20%7C%20Go)-purple)
 
 Welcome to my portfolio repository!  
 Here you will find my certificates, personal projects, and code examples in Python, JavaScript, Go, and Data Science.
@@ -54,4 +52,4 @@ Here you will find my certificates, personal projects, and code examples in Pyth
 ## 📫 Contact
 
 - [LinkedIn Profile](https://www.linkedin.com/in/dmitry-khapenkov-50b9b115b/)
-- Email: d.khapenkov@gmail.com
+- Email: <d.khapenkov@gmail.com>
