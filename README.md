@@ -53,5 +53,5 @@ Here you will find my certificates, personal projects, and code examples in Pyth
 
 ## 📫 Contact
 
-- LinkedIn: [https://www.linkedin.com/in/dmitry-khapenkov-50b9b115b/](#)
+- [LinkedIn Profile](https://www.linkedin.com/in/dmitry-khapenkov-50b9b115b/)
 - Email: d.khapenkov@gmail.com
