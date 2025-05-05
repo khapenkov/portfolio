@@ -32,6 +32,10 @@ Here you will find my certificates, personal projects, and code examples in Pyth
 | Hypergram                 | Hypergram is a web-based image editor that allows users to apply basic filters to uploaded photos. | [View Project](https://github.com/khapenkov/hypergram)                 |
 | **Fantastic Beings**      | A match-3 puzzle game featuring magical creatures inspired by the wizarding world.                 | [View Project](https://github.com/khapenkov/fantastic-beings)          |
 | Simple Currency Converter | A command-line currency converter application that allows you to convert between currencies        | [View Project](https://github.com/khapenkov/simple-currency-converter) |
+| Hangman                   | A classic Hangman game implemented in JavaScript.                                                  | [View Project](https://github.com/khapenkov/hangman) |
+| Simple Currency Converter | A command-line currency converter application that allows you to convert between currencies        | [View Project](https://github.com/khapenkov/simple-currency-converter) |
+| Simple Currency Converter | A command-line currency converter application that allows you to convert between currencies        | [View Project](https://github.com/khapenkov/simple-currency-converter) |
+| Simple Currency Converter | A command-line currency converter application that allows you to convert between currencies        | [View Project](https://github.com/khapenkov/simple-currency-converter) |
 
 ### Go
 
