@@ -27,15 +27,15 @@ Here you will find my certificates, personal projects, and code examples in Pyth
 
 | Project                   | Description                                                                                        | Repository        |
 |:--------------------------|:---------------------------------------------------------------------------------------------------|:------------------|
-| Flashcards                | An interactive web application for learning capitals of countries around the world.                | [View Project](https://github.com/khapenkov/flashcards)                |
-| To-Do List                | A simple Todo List web application built with vanilla JavaScript, HTML, and CSS.                   | [View Project](https://github.com/khapenkov/to-do-list)                |
-| Hypergram                 | Hypergram is a web-based image editor that allows users to apply basic filters to uploaded photos. | [View Project](https://github.com/khapenkov/hypergram)                 |
-| **Fantastic Beings**      | A match-3 puzzle game featuring magical creatures inspired by the wizarding world.                 | [View Project](https://github.com/khapenkov/fantastic-beings)          |
-| Simple Currency Converter | A command-line currency converter application that allows you to convert between currencies        | [View Project](https://github.com/khapenkov/simple-currency-converter) |
-| Hangman                   | A classic Hangman game implemented in JavaScript.                                                  | [View Project](https://github.com/khapenkov/hangman) |
-| Amazing Prices            | A responsive pricing page for a fictional product/service                                          | [View Project](https://github.com/khapenkov/amazing-prices) |
-| Dog Glossary              | A web application that displays information about dog breeds using the <https://dog.ceo/dog-api/>  | [View Project](https://github.com/khapenkov/dog-glossary) |
-| Simple Currency Converter | A command-line currency converter application that allows you to convert between currencies        | [View Project](https://github.com/khapenkov/simple-currency-converter) |
+| Flashcards                | An interactive web application for learning capitals of countries around the world.                | [View repository](https://github.com/khapenkov/flashcards)                |
+| To-Do List                | A simple Todo List web application built with vanilla JavaScript, HTML, and CSS.                   | [View repository](https://github.com/khapenkov/to-do-list)                |
+| Hypergram                 | Hypergram is a web-based image editor that allows users to apply basic filters to uploaded photos. | [View repository](https://github.com/khapenkov/hypergram)                 |
+| **Fantastic Beings**      | A match-3 puzzle game featuring magical creatures inspired by the wizarding world.                 | [View repository](https://github.com/khapenkov/fantastic-beings)          |
+| Simple Currency Converter | A command-line currency converter application that allows you to convert between currencies        | [View repository](https://github.com/khapenkov/simple-currency-converter) |
+| Hangman                   | A classic Hangman game implemented in JavaScript.                                                  | [View repository](https://github.com/khapenkov/hangman)                   |
+| Amazing Prices            | A responsive pricing page for a fictional product/service                                          | [View repository](https://github.com/khapenkov/amazing-prices)            |
+| Dog Glossary              | A web application that displays information about dog breeds using the <https://dog.ceo/dog-api/>  | [View repository](https://github.com/khapenkov/dog-glossary)              |
+| Simple Stopwatch          | A command-line currency converter application that allows you to convert between currencies        | [View repository](https://github.com/khapenkov/simple-stopwatch)          |
 
 ### Go
 
