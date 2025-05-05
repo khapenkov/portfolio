@@ -34,7 +34,7 @@ Here you will find my certificates, personal projects, and code examples in Pyth
 | Simple Currency Converter | A command-line currency converter application that allows you to convert between currencies        | [View Project](https://github.com/khapenkov/simple-currency-converter) |
 | Hangman                   | A classic Hangman game implemented in JavaScript.                                                  | [View Project](https://github.com/khapenkov/hangman) |
 | Amazing Prices            | A responsive pricing page for a fictional product/service                                          | [View Project](https://github.com/khapenkov/amazing-prices) |
-| Simple Currency Converter | A command-line currency converter application that allows you to convert between currencies        | [View Project](https://github.com/khapenkov/simple-currency-converter) |
+| Dog Glossary              | A web application that displays information about dog breeds using the <https://dog.ceo/dog-api/>  | [View Project](https://github.com/khapenkov/dog-glossary) |
 | Simple Currency Converter | A command-line currency converter application that allows you to convert between currencies        | [View Project](https://github.com/khapenkov/simple-currency-converter) |
 
 ### Go
