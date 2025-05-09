@@ -7,7 +7,7 @@ Here you will find my certificates, personal projects, and code examples in Pyth
 
 ---
 
-## 📜 Certificates
+## Certificates
 
 | Title | Issuer | Date | Link      |
 |:------|:-------|:-----|:----------|
@@ -15,24 +15,39 @@ Here you will find my certificates, personal projects, and code examples in Pyth
 
 ---
 
-## 🛠️ Projects by Language / Type
+## Projects by Language / Type
 
 ### Go
 
-| №  | Project                    | Description                                                                                                                            | Repository        |
-|:---|:---------------------------|:---------------------------------------------------------------------------------------------------------------------------------------|:------------------|
-| 1  | Obscene Vocabulary Checker | A console application that filters obscene words in text by replacing them with asterisks.                                             | [View repository](https://github.com/khapenkov/obscene-vocabluary-checker) |
-| 2  | In-memory notepad          | his command-line application allows users to create, read, update, and delete notes in memory.                                         | [View repository](https://github.com/khapenkov/in-memory-notepad)          |
-| 3  | Smart Calculator           | A command-line calculator with support for variables, mathematical expressions, and basic commands.                                    | [View repository](https://github.com/khapenkov/smart-calculator-go)        |
-| 4  | Game Of Life               | A Go implementation of Conway's Game of Life - a cellular automaton simulation devised by the British mathematician John Horton Conway | [View repository](https://github.com/khapenkov/game-of-life)               |
-| 5  | Version Control System     | A lightweight version control system implemented in Go                                                                                 | [View repository](https://github.com/khapenkov/version-control-system)     |
-| 6  | Loan Calculator            | A command-line loan calculator that helps users calculate loan parameters                                                              | [View repository](https://github.com/khapenkov/loan-calculator-go)         |
+| №  | Project                    | Description                                                                                                                             | Repository        |
+|:---|:---------------------------|:----------------------------------------------------------------------------------------------------------------------------------------|:------------------|
+| 1  | Obscene Vocabulary Checker | A console application that filters obscene words in text by replacing them with asterisks.                                              | [View repository](https://github.com/khapenkov/obscene-vocabluary-checker) |
+| 2  | In-memory notepad          | his command-line application allows users to create, read, update, and delete notes in memory.                                          | [View repository](https://github.com/khapenkov/in-memory-notepad)          |
+| 3  | Smart Calculator           | A command-line calculator with support for variables, mathematical expressions, and basic commands.                                     | [View repository](https://github.com/khapenkov/smart-calculator-go)        |
+| 4  | Game Of Life               | A Go implementation of Conway's Game of Life - a cellular automaton simulation devised by the British mathematician John Horton Conway. | [View repository](https://github.com/khapenkov/game-of-life)               |
+| 5  | Version Control System     | A lightweight version control system implemented in Go.                                                                                 | [View repository](https://github.com/khapenkov/version-control-system)     |
+| 6  | Loan Calculator            | A command-line loan calculator that helps users calculate loan parameters.                                                              | [View repository](https://github.com/khapenkov/loan-calculator-go)         |
 
-## 📊 Data Science
+## Data Science
 
-| Project                    | Description                                                                                                                            | Repository        |
-|:---------------------------|:---------------------------------------------------------------------------------------------------------------------------------------|:------------------|
-| Example                    | TODO                                                                                                                                   | [View Project](#) |
+| №  | Project                                           | Description                                                                                                                            | Repository        |
+|:---|:--------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------|:------------------|
+| 1  | Predicting customer churn for a telecom operator  | It is necessary to learn how to predict the outflow of telecom operator clients with high accuracy.                                    | [View repository](https://github.com/khapenkov/telecom-customer-churn)     |
+| 2  | Determining a person's age from a photograph `CV` | it is necessary to build a model that can estimate a person’s approximate age from a photograph to deliver target offers.              | [View repository](https://github.com/khapenkov/cv-age-recognition)         |
+| 3  | Analytics in an airline                           | It is necessary to test the hypothesis - does the number of purchased tickets depend on festivals.                                     | [View repository](https://github.com/khapenkov/airline-analytics)          |
+| 4  | Comment Toxicity Detection `NLP`                  | The store needs a tool that will search for toxic comments and send them for moderation.                                               | [View repository](https://github.com/khapenkov/defining-comment-toxicity)  |
+| 5  | Taxi order quantity forecast `Time Series`        | To attract more drivers during peak load periods, it is necessary to forecast the number of taxi orders for the next hour.             | [View repository](https://github.com/khapenkov/taxi-demand-forecasting)    |
+| 6  | Car Price Prediction Analysis                     | A used car sales service is developing an application. It's necessary to build a model to determine cars cost.                         | [View repository](https://github.com/khapenkov/cars-cost-analyze)          |
+| 7  | Data transformation method to protect information | It is necessary to develop a data transformation method that would make it difficult to restore personal information.                  | [View repository](https://github.com/khapenkov/data-transformation-method) |
+| 8  | Predicting the recovery rate of gold from ore     | It is necessary to build a model that will predict the gold recovery rate from gold-bearing ore.                                       | [View repository](https://github.com/khapenkov/gold-recovery)              |
+| 9  | Selecting a location for an oil well              | Build a predictive model to identify which of three regions would yield the highest profit with the lowest risk.                       | [View repository](https://github.com/khapenkov/location-for-oil-well)      |
+| 10 | Predicting the outflow of bank clients            | Predict whether a client will leave the bank in the near future based on historical data on client behavior and contract terminations. | [View repository](https://github.com/khapenkov/customer-churn-forecasting) |
+| 11 | Tariff recommendation                             | It is necessary to analyze customer behavior patterns and recommends an appropriate tariff plan.                                       | [View repository](https://github.com/khapenkov/tariff-recommendation)      |
+| 12 | Parameters of commercial success (GameDev)        | It is necessary to identify patterns that determine the success of a game in order to bet on a potentially popular product.            | [View repository](https://github.com/khapenkov/game-dev-analytics)         |
+| 13 | Determining a promising tariff for a company      | The commercial department wants to understand which tariff brings in more money.                                                       | [View repository](https://github.com/khapenkov/telecom-tariff-prediction)  |
+| 14 | Research of apartment sale ads                    | Based on the archive of apartment sale ads for several years, we need to determine the market value of real estate.                    | [View repository](https://github.com/khapenkov/eda-real-estate)            |
+| 15 | Credit Scoring: Borrower Reliability Research     | It is necessary to investigate whether a client's marital status and number of children affect their ability to repay loans on time.   | [View repository](https://github.com/khapenkov/credit-scoring)             |
+| 16 | Research of musical preferences                   | It's necessary to compare listening habits between two cities, examining what music is played and when, while testing hypotheses.      | [View repository](https://github.com/khapenkov/music-of-big-cities)        |
 
 ### Python
 
@@ -80,7 +95,7 @@ Here you will find my certificates, personal projects, and code examples in Pyth
 
 ---
 
-## 📫 Contact
+## Contact
 
 - [Hyperskill Profile](https://hyperskill.org/my-learning/37419592)
 - [LinkedIn Profile](https://www.linkedin.com/in/dmitry-khapenkov-50b9b115b/)
