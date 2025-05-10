@@ -5,6 +5,18 @@
 Welcome to my portfolio repository!  
 Here you will find my certificates, personal projects, and code examples in Python, JavaScript, Go, and Data Science.
 
+## Table of Contents
+
+- [Dmitry Khapenkov — Portfolio](#dmitry-khapenkov--portfolio)
+  - [Table of Contents](#table-of-contents)
+  - [Certificates](#certificates)
+  - [Projects by Language / Type](#projects-by-language--type)
+    - [Go](#go)
+    - [Data Science](#data-science)
+    - [Python](#python)
+    - [JavaScript / Frontend](#javascript--frontend)
+  - [Contact](#contact)
+
 ---
 
 ## Certificates
@@ -47,7 +59,7 @@ Here you will find my certificates, personal projects, and code examples in Pyth
 | 5  | Version Control System     | A lightweight version control system implemented in Go.                                                                                 | [View repository](https://github.com/khapenkov/version-control-system)     |
 | 6  | Loan Calculator            | A command-line loan calculator that helps users calculate loan parameters.                                                              | [View repository](https://github.com/khapenkov/loan-calculator-go)         |
 
-## Data Science
+### Data Science
 
 | №  | Project                                           | Description                                                                                                                            | Repository        |
 |:---|:--------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------|:------------------|
