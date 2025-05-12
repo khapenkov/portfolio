@@ -109,6 +109,7 @@ Here you will find my certificates, personal projects, and code examples in Pyth
 | 23 | Virtual Study Assistant   | A command-line application that helps you plan your study sessions and stay motivated through AI-generated messages.                               | [View repository](https://github.com/khapenkov/virtual-study-assistant)   |
 | 24 | **Key Terms Extraction**  | A Python tool for extracting key terms from news articles using TF-IDF scoring and natural language processing techniques.                         | [View repository](https://github.com/khapenkov/key-terms-extraction)      |
 | 25 | **Readability Score**     | A Python tool that determines how complex a text is and for which age it is most appropriate.                                                      | [View repository](https://github.com/khapenkov/readability-score-python)  |
+| 26 | **HyperSearch Engine**    | Text search engine that allows search through a corpus of text documents using NL queries, using TF-IDF vectorization and cosine similarity.       | [View repository](https://github.com/khapenkov/hyper-search-engine)       |
 
 ### JavaScript / Frontend
 
