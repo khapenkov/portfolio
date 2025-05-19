@@ -111,6 +111,7 @@ Here you will find my certificates, personal projects, and code examples in Pyth
 | 25 | **Readability Score**       | A Python tool that determines how complex a text is and for which age it is most appropriate.                                                      | [View repository](https://github.com/khapenkov/readability-score-python)    |
 | 26 | **HyperSearch Engine**      | Text search engine that allows search through a corpus of text documents using NL queries, using TF-IDF vectorization and cosine similarity.       | [View repository](https://github.com/khapenkov/hyper-search-engine)         |
 | 27 | Vector Database with Qdrant | A semantic search engine for arXiv papers using vector embeddings with Qdrant and OpenAI.                                                          | [View repository](https://github.com/khapenkov/vector-database-with-qdrant) |
+| 28 | Further steps with Qdrant   | This project explores optimization techniques for vector similarity search using the Qdrant vector database.                                       | [View repository](https://github.com/khapenkov/further-steps-with-qdrant)   |
 
 ### JavaScript / Frontend
 
