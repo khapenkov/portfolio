@@ -21,25 +21,28 @@ Here you will find my certificates, personal projects, and code examples in Pyth
 
 ## Certificates
 
-| Title                                       | Type                | Issuer           | Date | Link                 |
-|:--------------------------------------------|---------------------|:-----------------|:-----|:---------------------|
-| AI Programming for Python Developers        | AI engineering      | Hyperskill       | 2025 | Early user or Beta\* |
-| Go Developer                                | Golang              | Hyperskill       | 2025 | Early user or Beta\*\* |
-| Introduction to Go                          | Golang              | Hyperskill       | 2025 | [View certificate](./assets/certificates/hs-intro-to-go.pdf)       |
-| Python Developer                            | Python              | Hyperskill       | 2025 | Early user or Beta\*\* |
-| Intermediate Python                         | Python              | Hyperskill       | 2025 | Early user or Beta\* |
-| Python Core                                 | Python              | Hyperskill       | 2025 | Early user or Beta\*\* |
-| Python fundamentals with practical projects | Python              | Hyperskill       | 2025 | Early user or Beta\*\* |
-| Frontend Developer                          | Frontend            | Hyperskill       | 2025 | Early user or Beta\*\* |
-| JavaScript Core                             | Frontend            | Hyperskill       | 2025 | Early user or Beta\* |
-| Introduction to JavaScript                  | Frontend            | Hyperskill       | 2025 | Early user or Beta\*\* |
-| Introduction to HTML and CSS                | Frontend            | Hyperskill       | 2025 | Early user or Beta\* |
-| Introduction to Frontend                    | Frontend            | Hyperskill       | 2025 | [View certificate](./assets/certificates/hs-intro-to-frontend.pdf) |
-| Introduction to Math                        | Math                | Hyperskill       | 2025 | [View certificate](./assets/certificates/hs-intro-to-math.pdf)     |
-| Linear Algebra for Data Science             | Data Science / Math | Stepik.Academy   | 2021 | [View certificate](./assets/certificates/lin-alg-en.png)           |
-| Calculus for Data Science                   | Data Science / Math | Stepik.Academy   | 2021 | [View certificate](./assets/certificates/matan-en.png)             |
-| Probability Theory for Data Science         | Data Science / Math | Stepik.Academy   | 2021 | [View certificate](./assets/certificates/terver-en.png)            |
-| Data Science Professional Training Course   | Data Science        | Yandex.Praktikum | 2021 | [View certificate](./assets/certificates/yandex_praktikum_en.pdf)  |
+| №  | Title                                                                                     | Type                | Issuer           | Date | Link                                                               |
+|:---|:------------------------------------------------------------------------------------------|:--------------------|:-----------------|:-----|:-------------------------------------------------------------------|
+| 1  | [Ai Engineer](https://hyperskill.org/courses/141)                                         | AI engineering      | Hyperskill       | 2025 | Early user or Beta\*                                               |
+| 2  | [Introduction to AI Engineer with Python](https://hyperskill.org/courses/144)             | AI engineering      | Hyperskill       | 2025 | Early user or Beta\*                                               |
+| 3  | [AI Programming for Python Developers](https://hyperskill.org/courses/124)                | AI engineering      | Hyperskill       | 2025 | Early user or Beta\*                                               |
+| 4  | [Go Developer](https://hyperskill.org/courses/25)                                         | Golang              | Hyperskill       | 2025 | Early user or Beta\*\*                                             |
+| 5  | [Introduction to Go](https://hyperskill.org/courses/81)                                   | Golang              | Hyperskill       | 2025 | [View certificate](./assets/certificates/hs-intro-to-go.pdf)       |
+| 6  | [Python Developer](https://hyperskill.org/courses/2)                                      | Python              | Hyperskill       | 2025 | Early user or Beta\*\*                                             |
+| 7  | [Intermediate Python](https://hyperskill.org/courses/7)                                   | Python              | Hyperskill       | 2025 | Early user or Beta\*                                               |
+| 8  | [Python Core](https://hyperskill.org/courses/22)                                          | Python              | Hyperskill       | 2025 | Early user or Beta\*\*                                             |
+| 9  | [Python fundamentals with practical projects](https://hyperskill.org/courses/6)           | Python              | Hyperskill       | 2025 | Early user or Beta\*\*                                             |
+| 10 | [Frontend Developer](https://hyperskill.org/courses/5)                                    | Frontend            | Hyperskill       | 2025 | Early user or Beta\*\*                                             |
+| 11 | [JavaScript Core](https://hyperskill.org/courses/65)                                      | Frontend            | Hyperskill       | 2025 | Early user or Beta\*                                               |
+| 12 | [Introduction to JavaScript](https://hyperskill.org/courses/32)                           | Frontend            | Hyperskill       | 2025 | Early user or Beta\*\*                                             |
+| 13 | [Introduction to HTML and CSS](https://hyperskill.org/courses/34)                         | Frontend            | Hyperskill       | 2025 | Early user or Beta\*                                               |
+| 14 | [Introduction to Frontend](https://hyperskill.org/courses/125)                            | Frontend            | Hyperskill       | 2025 | [View certificate](./assets/certificates/hs-intro-to-frontend.pdf) |
+| 15 | [Introduction to Math](https://hyperskill.org/courses/57)                                 | Math                | Hyperskill       | 2025 | [View certificate](./assets/certificates/hs-intro-to-math.pdf)     |
+| 16 | [Linear Algebra for Data Science](https://stepik.org/course/83861/promo)                  | Data Science / Math | Stepik.Academy   | 2021 | [View certificate](./assets/certificates/lin-alg-en.png)           |
+| 17 | [Calculus for Data Science](https://stepik.org/course/83861/promo)                        | Data Science / Math | Stepik.Academy   | 2021 | [View certificate](./assets/certificates/matan-en.png)             |
+| 18 | [Probability Theory for Data Science](https://stepik.org/course/83861/promo)              | Data Science / Math | Stepik.Academy   | 2021 | [View certificate](./assets/certificates/terver-en.png)            |
+| 19 | [Data Science Professional Training Course](https://practicum.yandex.com/data-scientist/) | Data Science        | Yandex.Praktikum | 2021 | [View certificate](./assets/certificates/yandex_praktikum_en.pdf)  |
+
 
 **\*** - _Hyperskill does not issue certificates for some courses if they have been completed by a small number of people or if they are considered to be in beta. However, you can see their completion in the [Hyperskill Profile](https://hyperskill.org/my-learning/37419592)_
 **\*\*** - _Courses for which I can officially get a certificate, I just haven't requested it yet. I'll add a little later._
