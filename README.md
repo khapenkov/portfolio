@@ -23,6 +23,7 @@ Here you will find my certificates, personal projects, and code examples in Pyth
 
 | №  | Title                                                                                     | Type                | Issuer           | Date | Link                                                               |
 |:---|:------------------------------------------------------------------------------------------|:--------------------|:-----------------|:-----|:-------------------------------------------------------------------|
+| 0  | [Chatbots with Python](https://hyperskill.org/courses/79)                                 | AI engineering      | Hyperskill       | 2025 | Early user or Beta\*  
 | 1  | [Ai Engineer](https://hyperskill.org/courses/141)                                         | AI engineering      | Hyperskill       | 2025 | Early user or Beta\*                                               |
 | 2  | [Introduction to AI Engineer with Python](https://hyperskill.org/courses/144)             | AI engineering      | Hyperskill       | 2025 | Early user or Beta\*                                               |
 | 3  | [AI Programming for Python Developers](https://hyperskill.org/courses/124)                | AI engineering      | Hyperskill       | 2025 | Early user or Beta\*                                               |
@@ -115,6 +116,7 @@ Here you will find my certificates, personal projects, and code examples in Pyth
 | 26 | **HyperSearch Engine**      | Text search engine that allows search through a corpus of text documents using NL queries, using TF-IDF vectorization and cosine similarity.       | [View repository](https://github.com/khapenkov/hyper-search-engine)         |
 | 27 | Vector Database with Qdrant | A semantic search engine for arXiv papers using vector embeddings with Qdrant and OpenAI.                                                          | [View repository](https://github.com/khapenkov/vector-database-with-qdrant) |
 | 28 | Further steps with Qdrant   | This project explores optimization techniques for vector similarity search using the Qdrant vector database.                                       | [View repository](https://github.com/khapenkov/further-steps-with-qdrant)   |
+| 29 | Jeopardy! QA Bot            | An intelligent question-answering bot that uses Doc2Vec to find the most similar Jeopardy! questions from a dataset                                         | [View repository](https://github.com/khapenkov/jeopardy)                    |
 
 ### JavaScript / Frontend
 
