@@ -23,26 +23,26 @@ Here you will find my certificates, personal projects, and code examples in Pyth
 
 | №  | Title                                                                                     | Type                | Issuer           | Date | Link                                                               |
 |:---|:------------------------------------------------------------------------------------------|:--------------------|:-----------------|:-----|:-------------------------------------------------------------------|
-| 0  | [Chatbots with Python](https://hyperskill.org/courses/79)                                 | AI engineering      | Hyperskill       | 2025 | Early user or Beta\*  
-| 1  | [Ai Engineer](https://hyperskill.org/courses/141)                                         | AI engineering      | Hyperskill       | 2025 | Early user or Beta\*                                               |
-| 2  | [Introduction to AI Engineer with Python](https://hyperskill.org/courses/144)             | AI engineering      | Hyperskill       | 2025 | Early user or Beta\*                                               |
-| 3  | [AI Programming for Python Developers](https://hyperskill.org/courses/124)                | AI engineering      | Hyperskill       | 2025 | Early user or Beta\*                                               |
-| 4  | [Go Developer](https://hyperskill.org/courses/25)                                         | Golang              | Hyperskill       | 2025 | Early user or Beta\*\*                                             |
-| 5  | [Introduction to Go](https://hyperskill.org/courses/81)                                   | Golang              | Hyperskill       | 2025 | [View certificate](./assets/certificates/hs-intro-to-go.pdf)       |
-| 6  | [Python Developer](https://hyperskill.org/courses/2)                                      | Python              | Hyperskill       | 2025 | Early user or Beta\*\*                                             |
-| 7  | [Intermediate Python](https://hyperskill.org/courses/7)                                   | Python              | Hyperskill       | 2025 | Early user or Beta\*                                               |
-| 8  | [Python Core](https://hyperskill.org/courses/22)                                          | Python              | Hyperskill       | 2025 | Early user or Beta\*\*                                             |
-| 9  | [Python fundamentals with practical projects](https://hyperskill.org/courses/6)           | Python              | Hyperskill       | 2025 | Early user or Beta\*\*                                             |
-| 10 | [Frontend Developer](https://hyperskill.org/courses/5)                                    | Frontend            | Hyperskill       | 2025 | Early user or Beta\*\*                                             |
-| 11 | [JavaScript Core](https://hyperskill.org/courses/65)                                      | Frontend            | Hyperskill       | 2025 | Early user or Beta\*                                               |
-| 12 | [Introduction to JavaScript](https://hyperskill.org/courses/32)                           | Frontend            | Hyperskill       | 2025 | Early user or Beta\*\*                                             |
-| 13 | [Introduction to HTML and CSS](https://hyperskill.org/courses/34)                         | Frontend            | Hyperskill       | 2025 | Early user or Beta\*                                               |
-| 14 | [Introduction to Frontend](https://hyperskill.org/courses/125)                            | Frontend            | Hyperskill       | 2025 | [View certificate](./assets/certificates/hs-intro-to-frontend.pdf) |
-| 15 | [Introduction to Math](https://hyperskill.org/courses/57)                                 | Math                | Hyperskill       | 2025 | [View certificate](./assets/certificates/hs-intro-to-math.pdf)     |
-| 16 | [Linear Algebra for Data Science](https://stepik.org/course/83861/promo)                  | Data Science / Math | Stepik.Academy   | 2021 | [View certificate](./assets/certificates/lin-alg-en.png)           |
-| 17 | [Calculus for Data Science](https://stepik.org/course/83861/promo)                        | Data Science / Math | Stepik.Academy   | 2021 | [View certificate](./assets/certificates/matan-en.png)             |
-| 18 | [Probability Theory for Data Science](https://stepik.org/course/83861/promo)              | Data Science / Math | Stepik.Academy   | 2021 | [View certificate](./assets/certificates/terver-en.png)            |
-| 19 | [Data Science Professional Training Course](https://practicum.yandex.com/data-scientist/) | Data Science        | Yandex.Praktikum | 2021 | [View certificate](./assets/certificates/yandex_praktikum_en.pdf)  |
+| 1  | [Chatbots with Python](https://hyperskill.org/courses/79)                                 | AI engineering      | Hyperskill       | 2025 | Early user or Beta\*  
+| 2  | [Ai Engineer](https://hyperskill.org/courses/141)                                         | AI engineering      | Hyperskill       | 2025 | Early user or Beta\*                                               |
+| 3  | [Introduction to AI Engineer with Python](https://hyperskill.org/courses/144)             | AI engineering      | Hyprskill       | 2025 | Early user or Beta\*                                               |
+| 4  | [AI Programming for Python Developers](https://hyperskill.org/courses/124)                | AI engineering      | Hyperskill       | 2025 | Early user or Beta\*                                               |
+| 5  | [Go Developer](https://hyperskill.org/courses/25)                                         | Golang              | Hyperskill       | 2025 | Early user or Beta\*\*                                             |
+| 6  | [Introduction to Go](https://hyperskill.org/courses/81)                                   | Golang              | Hyperskill       | 2025 | [View certificate](./assets/certificates/hs-intro-to-go.pdf)       |
+| 7  | [Python Developer](https://hyperskill.org/courses/2)                                      | Python              | Hyperskill       | 2025 | Early user or Beta\*\*                                             |
+| 8  | [Intermediate Python](https://hyperskill.org/courses/7)                                   | Python              | Hyperskill       | 2025 | Early user or Beta\*                                               |
+| 9  | [Python Core](https://hyperskill.org/courses/22)                                          | Python              | Hyperskill       | 2025 | Early user or Beta\*\*                                             |
+| 10 | [Python fundamentals with practical projects](https://hyperskill.org/courses/6)           | Python              | Hyperskill       | 2025 | Early user or Beta\*\*                                             |
+| 11 | [Frontend Developer](https://hyperskill.org/courses/5)                                    | Frontend            | Hyperskill       | 2025 | Early user or Beta\*\*                                             |
+| 12 | [JavaScript Core](https://hyperskill.org/courses/65)                                      | Frontend            | Hyperskill       | 2025 | Early user or Beta\*                                               |
+| 13 | [Introduction to JavaScript](https://hyperskill.org/courses/32)                           | Frontend            | Hyperskill       | 2025 | Early user or Beta\*\*                                             |
+| 14 | [Introduction to HTML and CSS](https://hyperskill.org/courses/34)                         | Frontend            | Hyperskill       | 2025 | Early user or Beta\*                                               |
+| 15 | [Introduction to Frontend](https://hyperskill.org/courses/125)                            | Frontend            | Hyperskill       | 2025 | [View certificate](./assets/certificates/hs-intro-to-frontend.pdf) |
+| 16 | [Introduction to Math](https://hyperskill.org/courses/57)                                 | Math                | Hyperskill       | 2025 | [View certificate](./assets/certificates/hs-intro-to-math.pdf)     |
+| 17 | [Linear Algebra for Data Science](https://stepik.org/course/83861/promo)                  | Data Science / Math | Stepik.Academy   | 2021 | [View certificate](./assets/certificates/lin-alg-en.png)           |
+| 18 | [Calculus for Data Science](https://stepik.org/course/83861/promo)                        | Data Science / Math | Stepik.Academy   | 2021 | [View certificate](./assets/certificates/matan-en.png)             |
+| 19 | [Probability Theory for Data Science](https://stepik.org/course/83861/promo)              | Data Science / Math | Stepik.Academy   | 2021 | [View certificate](./assets/certificates/terver-en.png)            |
+| 20 | [Data Science Professional Training Course](https://practicum.yandex.com/data-scientist/) | Data Science        | Yandex.Praktikum | 2021 | [View certificate](./assets/certificates/yandex_praktikum_en.pdf)  |
 
 
 **\*** - _Hyperskill does not issue certificates for some courses if they have been completed by a small number of people or if they are considered to be in beta. However, you can see their completion in the [Hyperskill Profile](https://hyperskill.org/my-learning/37419592)_
@@ -116,7 +116,8 @@ Here you will find my certificates, personal projects, and code examples in Pyth
 | 26 | **HyperSearch Engine**      | Text search engine that allows search through a corpus of text documents using NL queries, using TF-IDF vectorization and cosine similarity.       | [View repository](https://github.com/khapenkov/hyper-search-engine)         |
 | 27 | Vector Database with Qdrant | A semantic search engine for arXiv papers using vector embeddings with Qdrant and OpenAI.                                                          | [View repository](https://github.com/khapenkov/vector-database-with-qdrant) |
 | 28 | Further steps with Qdrant   | This project explores optimization techniques for vector similarity search using the Qdrant vector database.                                       | [View repository](https://github.com/khapenkov/further-steps-with-qdrant)   |
-| 29 | Jeopardy! QA Bot            | An intelligent question-answering bot that uses Doc2Vec to find the most similar Jeopardy! questions from a dataset                                         | [View repository](https://github.com/khapenkov/jeopardy)                    |
+| 29 | Jeopardy! QA Bot            | An intelligent question-answering bot that uses Doc2Vec to find the most similar Jeopardy! questions from a dataset                                | [View repository](https://github.com/khapenkov/jeopardy)                    |
+| 30 | Introduction to LangChain   | A demonstration project showcasing LangChain capabilities for building AI-powered applications with tool integration and vector search.            | [View repository](https://github.com/khapenkov/intro-to-langchain)          |
 
 ### JavaScript / Frontend
 
