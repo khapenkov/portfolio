@@ -44,9 +44,7 @@ Here you will find my certificates, personal projects, and code examples in Pyth
 | 19 | [Probability Theory for Data Science](https://stepik.org/course/83861/promo)              | Data Science / Math | Stepik.Academy   | 2021 | [View certificate](./assets/certificates/terver-en.png)                  |
 | 20 | [Data Science Professional Training Course](https://practicum.yandex.com/data-scientist/) | Data Science        | Yandex.Praktikum | 2021 | [View certificate](./assets/certificates/yandex_praktikum_en.pdf)        |
 
-
 **\*** - _Hyperskill does not issue certificates for some courses if they have been completed by a small number of people or if they are considered to be in beta. However, you can see their completion in the [Hyperskill Profile](https://hyperskill.org/my-learning/37419592)_
-**\*\*** - _Courses for which I can officially get a certificate, I just haven't requested it yet. I'll add a little later._
 
 ---
 
